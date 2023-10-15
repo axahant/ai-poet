@@ -1,0 +1,7 @@
+.idea
+*.iml
+
+**/.ipynb_checkpoints
+
+tmp.*
+**/composed.*
